@@ -1,0 +1,26 @@
+[
+    {
+        "id":"01",
+        "name":"Course 1"
+    },
+    {
+        "id":"02",
+        "name":"Course 2"
+    },
+    {
+        "id":"03",
+        "name":"Course 3"
+    },
+    {
+        "id":"04",
+        "name":"Course 4"
+    },
+    {
+        "id":"05",
+        "name":"Course 5"
+    },
+    {
+        "id":"06",
+        "name":"Course 6"
+    }
+]
