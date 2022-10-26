@@ -16,7 +16,17 @@ app.get('/courses',(req,res) =>{
     res.send(courses);
 });
 
+app.get('/courses/:id',(req,res)=>{
+    const courseId = req.params.id;
+    const courseDescrition = topics.filter( n => n.course_id === courseId);
+    res.send(courseDescrition);
 
+});
+app.get('/topics/:id',(req,res) =>{
+    const topicId = req.params.id;
+    const selectedTopic = topics.find(t => t.id === topicId);
+    res.send(selectedTopic);
+});
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
