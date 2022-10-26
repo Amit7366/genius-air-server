@@ -1,30 +1,51 @@
 [
     {
       "id": "63597a11bc66845aebb4cd95",
-      "course_id": 4,
+      "course_id": 1,
       "image": "http://placehold.it/32x32",
       "title": "Mayer",
       "details": "Ipsum in aute occaecat laborum amet veniam amet esse cillum nulla aliquip in. Consequat aliqua proident quis consectetur aliqua voluptate est esse. Lorem Lorem amet deserunt sint eu ex fugiat do. Amet amet magna laboris nisi ad laboris minim occaecat voluptate veniam adipisicing. Voluptate enim ut pariatur aliqua aliqua aliquip. Velit dolor deserunt sunt incididunt do dolor cupidatat commodo aute.\r\n",
       "price": 244,
-      "ratings": 4.5
+      "ratings": 4.5,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a110c5a66727b3f9a10",
-      "course_id": 4,
+      "course_id": 2,
       "image": "http://placehold.it/32x32",
       "title": "Barrett",
       "details": "Qui fugiat exercitation et deserunt veniam et reprehenderit non. Ullamco tempor et eiusmod occaecat sint ea quis sunt. Dolor adipisicing in et eu id ut occaecat dolore. Aute ut aliquip ad irure dolore tempor do. Ad mollit anim enim minim consequat Lorem cupidatat proident magna consequat Lorem. Nulla laborum tempor aliqua officia eu adipisicing nulla aliqua anim. Irure aliquip culpa aliqua excepteur laborum esse exercitation voluptate fugiat.\r\n",
       "price": 273,
-      "ratings": 3.0
+      "ratings": 3.0,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a11299a188f95915097",
-      "course_id": 6,
+      "course_id": 2,
       "image": "http://placehold.it/32x32",
       "title": "Daisy",
       "details": "Lorem in occaecat ex eu aliqua cupidatat est non consequat magna do magna elit eiusmod. Elit est est dolore do adipisicing veniam. Labore Lorem aliquip adipisicing velit ipsum. Eiusmod adipisicing consectetur culpa magna ea excepteur qui minim dolore aute enim voluptate.\r\n",
       "price": 395,
-      "ratings": 5.0
+      "ratings": 5.0,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a110d5aa7d51d2cd3b8",
@@ -33,7 +54,14 @@
       "title": "Arline",
       "details": "Tempor culpa tempor cillum laborum aliquip excepteur reprehenderit do velit excepteur laborum officia aliquip. Occaecat dolore consequat ut aliquip deserunt ea reprehenderit aliqua voluptate cupidatat ullamco pariatur. Consequat ea ad minim minim et sunt est dolor anim tempor. Ipsum exercitation aute id officia elit esse culpa eiusmod excepteur sint est in officia. Commodo quis esse fugiat cillum est occaecat. Duis consequat qui fugiat sit sint magna ad officia quis deserunt proident quis. Esse dolore exercitation adipisicing excepteur aute irure amet aliquip.\r\n",
       "price": 143,
-      "ratings": 4.2
+      "ratings": 4.2,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a11ad35039711030abf",
@@ -42,7 +70,14 @@
       "title": "Mcmillan",
       "details": "Pariatur laboris Lorem mollit reprehenderit anim consequat dolore culpa excepteur fugiat fugiat velit. Elit ex in Lorem deserunt non ea. Voluptate officia nulla quis tempor nisi ex labore consectetur ullamco duis cupidatat nisi incididunt. Commodo minim non enim irure veniam nostrud dolore consequat dolor Lorem laborum. Dolore minim voluptate et quis nisi. Duis aliquip magna proident eiusmod quis est in anim.\r\n",
       "price": 337,
-      "ratings": 3.8
+      "ratings": 3.8,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a112f6eb9f7c8b29714",
@@ -51,7 +86,14 @@
       "title": "Lewis",
       "details": "Pariatur ut magna in magna nisi elit cillum tempor. Velit aliqua nisi tempor velit sunt veniam reprehenderit pariatur duis qui. Id voluptate anim consectetur aute sint et eu ipsum ut ut. Nisi excepteur qui ex excepteur labore incididunt pariatur sint nisi Lorem quis est velit excepteur.\r\n",
       "price": 309,
-      "ratings": 4
+      "ratings": 4,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a11f2f1c7033a1e3c93",
@@ -60,7 +102,14 @@
       "title": "Tanya",
       "details": "Non laborum aute quis dolore dolore labore laborum laboris ex do eiusmod nostrud cupidatat ad. Proident ea sit elit velit do eu. Nostrud quis mollit sit velit culpa nulla magna cillum id deserunt. Nostrud dolor eu minim consequat ullamco fugiat laborum enim. Aliqua elit qui reprehenderit consequat elit deserunt velit reprehenderit ad aute nulla fugiat veniam irure.\r\n",
       "price": 111,
-      "ratings": 5
+      "ratings": 5,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     },
     {
       "id": "63597a11d28c06137ced9e49",
@@ -69,6 +118,13 @@
       "title": "Noble",
       "details": "Minim excepteur ut ipsum sint exercitation eu minim aliqua enim. Cupidatat non et sunt nisi magna labore cupidatat velit. Qui in esse exercitation excepteur ea tempor. Voluptate ea cupidatat officia exercitation irure magna duis proident cillum.\r\n",
       "price": 316,
-      "ratings": 3
+      "ratings": 3,
+      "bullet":[
+        "bullet 1",
+        "bullet 2",
+        "bullet 3",
+        "bullet 4",
+        "bullet 5"
+      ]
     }
   ]

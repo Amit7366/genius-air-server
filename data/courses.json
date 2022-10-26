@@ -1,26 +1,30 @@
 [
     {
-        "id":"01",
+        "id":1,
         "name":"Course 1"
     },
     {
-        "id":"02",
+        "id":2,
         "name":"Course 2"
     },
     {
-        "id":"03",
+        "id":3,
         "name":"Course 3"
     },
     {
-        "id":"04",
+        "id":4,
         "name":"Course 4"
     },
     {
-        "id":"05",
+        "id":5,
         "name":"Course 5"
     },
     {
-        "id":"06",
+        "id":6,
         "name":"Course 6"
+    },
+    {
+        "id":7,
+        "name":"All Course"
     }
 ]
