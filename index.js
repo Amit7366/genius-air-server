@@ -18,8 +18,13 @@ app.get('/courses',(req,res) =>{
 
 app.get('/courses/:id',(req,res)=>{
     const courseId = req.params.id;
-    const courseDescrition = topics.filter( n => n.course_id === courseId);
-    res.send(courseDescrition);
+    if(courseId === "7"){
+        res.send(topics);
+    }else{
+        const courseDescrition = topics.filter( n => n.course_id === courseId);
+        res.send(courseDescrition);
+    }
+    
 
 });
 app.get('/topics/:id',(req,res) =>{
