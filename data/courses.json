@@ -1,27 +1,27 @@
 [
     {
         "id":"1",
-        "name":"Course 1"
+        "name":"Front End Development"
     },
     {
         "id":"2",
-        "name":"Course 2"
+        "name":"Back End Development"
     },
     {
         "id":"3",
-        "name":"Course 3"
+        "name":"Framework Crash Course"
     },
     {
         "id":"4",
-        "name":"Course 4"
+        "name":"Data Science"
     },
     {
         "id":"5",
-        "name":"Course 5"
+        "name":"Server Management"
     },
     {
         "id":"6",
-        "name":"Course 6"
+        "name":"Database"
     },
     {
         "id":"7",
