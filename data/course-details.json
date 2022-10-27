@@ -4,15 +4,14 @@
       "course_id": "1",
       "image": "https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       "title": "Javascript",
-      "details": "Ipsum in aute occaecat laborum amet veniam amet esse cillum nulla aliquip in. Consequat aliqua proident quis consectetur aliqua voluptate est esse. Lorem Lorem amet deserunt sint eu ex fugiat do. Amet amet magna laboris nisi ad laboris minim occaecat voluptate veniam adipisicing. Voluptate enim ut pariatur aliqua aliqua aliquip. Velit dolor deserunt sunt incididunt do dolor cupidatat commodo aute.\r\n",
+      "details": "JavaScript , often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.\r\n",
       "price": 244,
       "ratings": 4.5,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Most popular language",
+        "Front and Backend feature",
+        "Awesome Resoueces",
+        "Vesatality"
       ]
     },
     {
@@ -20,15 +19,13 @@
       "course_id": "3",
       "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "title": "React",
-      "details": "Qui fugiat exercitation et deserunt veniam et reprehenderit non. Ullamco tempor et eiusmod occaecat sint ea quis sunt. Dolor adipisicing in et eu id ut occaecat dolore. Aute ut aliquip ad irure dolore tempor do. Ad mollit anim enim minim consequat Lorem cupidatat proident magna consequat Lorem. Nulla laborum tempor aliqua officia eu adipisicing nulla aliqua anim. Irure aliquip culpa aliqua excepteur laborum esse exercitation voluptate fugiat.\r\n",
+      "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.\r\n",
       "price": 273,
       "ratings": 3.0,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Most popular frontend framework",
+        "Awesome Usability"
+        
       ]
     },
     {
@@ -36,15 +33,13 @@
       "course_id": "1",
       "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
       "title": "HTML",
-      "details": "Lorem in occaecat ex eu aliqua cupidatat est non consequat magna do magna elit eiusmod. Elit est est dolore do adipisicing veniam. Labore Lorem aliquip adipisicing velit ipsum. Eiusmod adipisicing consectetur culpa magna ea excepteur qui minim dolore aute enim voluptate.\r\n",
+      "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.\r\n",
       "price": 395,
       "ratings": 5.0,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Make website",
+        "Main thing of website",
+        "Structured format"
       ]
     },
     {
@@ -52,15 +47,14 @@
       "course_id": "1",
       "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "title": "CSS",
-      "details": "Tempor culpa tempor cillum laborum aliquip excepteur reprehenderit do velit excepteur laborum officia aliquip. Occaecat dolore consequat ut aliquip deserunt ea reprehenderit aliqua voluptate cupidatat ullamco pariatur. Consequat ea ad minim minim et sunt est dolor anim tempor. Ipsum exercitation aute id officia elit esse culpa eiusmod excepteur sint est in officia. Commodo quis esse fugiat cillum est occaecat. Duis consequat qui fugiat sit sint magna ad officia quis deserunt proident quis. Esse dolore exercitation adipisicing excepteur aute irure amet aliquip.\r\n",
+      "details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.\r\n",
       "price": 143,
       "ratings": 4.2,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Main Web dsign material",
+        "Must needed",
+        "Awesome Output"
+        
       ]
     },
     {
@@ -68,15 +62,14 @@
       "course_id":"2",
       "image": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "title": "PHP",
-      "details": "Pariatur laboris Lorem mollit reprehenderit anim consequat dolore culpa excepteur fugiat fugiat velit. Elit ex in Lorem deserunt non ea. Voluptate officia nulla quis tempor nisi ex labore consectetur ullamco duis cupidatat nisi incididunt. Commodo minim non enim irure veniam nostrud dolore consequat dolor Lorem laborum. Dolore minim voluptate et quis nisi. Duis aliquip magna proident eiusmod quis est in anim.\r\n",
+      "details": "PHP is a general-purpose scripting language geared toward web development.[5] It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.[6] The PHP reference implementation is now produced by The PHP Group.[7] PHP originally stood for Personal Home Page,[8] but it now stands for the recursive initialism PHP: Hypertext Preprocessor.[9]\r\n",
       "price": 337,
       "ratings": 3.8,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Most Used language for back end",
+        "Easy to start",
+        "Much Resource"
+        
       ]
     },
     {
@@ -84,15 +77,13 @@
       "course_id": "5",
       "image": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "title": "SQL",
-      "details": "Pariatur ut magna in magna nisi elit cillum tempor. Velit aliqua nisi tempor velit sunt veniam reprehenderit pariatur duis qui. Id voluptate anim consectetur aute sint et eu ipsum ut ut. Nisi excepteur qui ex excepteur labore incididunt pariatur sint nisi Lorem quis est velit excepteur.\r\n",
+      "details": "SQL ; Structured Query Language)[5] is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.\r\n",
       "price": 309,
       "ratings": 4,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Manage data",
+        "Brdge between databse and logic "
+        
       ]
     },
     {
@@ -100,15 +91,14 @@
       "course_id": "4",
       "image": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "title": "AI",
-      "details": "Non laborum aute quis dolore dolore labore laborum laboris ex do eiusmod nostrud cupidatat ad. Proident ea sit elit velit do eu. Nostrud quis mollit sit velit culpa nulla magna cillum id deserunt. Nostrud dolor eu minim consequat ullamco fugiat laborum enim. Aliqua elit qui reprehenderit consequat elit deserunt velit reprehenderit ad aute nulla fugiat veniam irure.\r\n",
+      "details": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a]\r\n",
       "price": 111,
       "ratings": 5,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Work aside of human",
+        "Very much helpful for work",
+        "Might be warning"
+        
       ]
     },
     {
@@ -116,15 +106,14 @@
       "course_id": "4",
       "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1106&q=80",
       "title": "Robotics",
-      "details": "Minim excepteur ut ipsum sint exercitation eu minim aliqua enim. Cupidatat non et sunt nisi magna labore cupidatat velit. Qui in esse exercitation excepteur ea tempor. Voluptate ea cupidatat officia exercitation irure magna duis proident cillum.\r\n",
+      "details": "Robotics is an interdisciplinary branch of computer science and engineering.[1] Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering, information engineering, mechatronics, electronics, bioengineering, computer engineering, control engineering, software engineering, mathematics, etc.\r\n",
       "price": 316,
       "ratings": 3,
       "bullet":[
-        "bullet 1",
-        "bullet 2",
-        "bullet 3",
-        "bullet 4",
-        "bullet 5"
+        "Make for robots",
+        "Military Operations",
+        "Human can't do work"
+        
       ]
     }
   ]
